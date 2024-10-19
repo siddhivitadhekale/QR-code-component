@@ -25,7 +25,8 @@ img {
   border-radius: 10px;
 }
 
-h2 {
+h1 {
+  font-size: 1.75rem;
   color: #1f3251;
 }
 p {
